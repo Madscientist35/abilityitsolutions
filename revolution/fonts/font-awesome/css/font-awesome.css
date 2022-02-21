@@ -282,6 +282,9 @@
 .fa-headphones:before {
   content: "\f025";
 }
+.fa-headset:before {
+  content: "\f590";
+}
 .fa-volume-off:before {
   content: "\f026";
 }
